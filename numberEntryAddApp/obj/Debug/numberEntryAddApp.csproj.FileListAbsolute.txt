@@ -1,0 +1,9 @@
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\bin\Debug\numberEntryAddApp.exe.config
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\bin\Debug\numberEntryAddApp.exe
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\bin\Debug\numberEntryAddApp.pdb
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\obj\Debug\numberEntryAddApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\obj\Debug\numberEntryAddApp.numberEntry.resources
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\obj\Debug\numberEntryAddApp.Properties.Resources.resources
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\obj\Debug\numberEntryAddApp.csproj.GenerateResource.Cache
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\obj\Debug\numberEntryAddApp.exe
+E:\Visual Studio Work\numberEntryAddApp\numberEntryAddApp\obj\Debug\numberEntryAddApp.pdb
